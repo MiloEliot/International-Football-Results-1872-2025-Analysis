@@ -19,5 +19,5 @@ The original dataset can be found at: [Kaggle](https://www.kaggle.com/datasets/m
 ## Repository Structure
 - `Data` - The downloaded CSV files
 - `SQL` - SQL script used to build the database and the schema
-- `International_Football_Results_Analysis` - SQL queries, exploratory data analysis, and machine learning
+- `International_Football_Results_Analysis.ipynb` - SQL queries, exploratory data analysis, and machine learning
 
